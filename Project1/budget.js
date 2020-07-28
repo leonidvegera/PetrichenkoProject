@@ -20,7 +20,7 @@ const appData = {
 
 // console.log(appData);
 // console.table(appData);
-// -----------------------------------------------------------------------
+// ----------------------------------------------------------------
 
 let oneDayBudget = (money / 30);
 alert(oneDayBudget);
